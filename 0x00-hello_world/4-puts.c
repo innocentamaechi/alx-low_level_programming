@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- * main: Entry point
+ * main - Prints a message to stdout using puts
  *
- * Description: A simple program that prints a message using puts
- *
- * Return - Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)

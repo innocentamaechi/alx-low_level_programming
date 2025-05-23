@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- * main: Entry point
+ * main - Prints a message to stdout using puts
  *
- * Descriptin: This is a little program that prints the size of.
- *
- * Return - Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)

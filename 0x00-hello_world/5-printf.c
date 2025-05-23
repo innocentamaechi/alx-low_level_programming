@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- * main: Entry point
+ * main - Prints a message to stdout using printf
  *
- * Description: A sinple program that prints using printf
- *
- * Return - Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
