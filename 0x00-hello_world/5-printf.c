@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main: Entry point
  *
  * Description: A sinple program that prints using printf
  *

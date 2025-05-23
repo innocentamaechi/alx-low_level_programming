@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main: Entry point
  *
  * Descriptin: This is a little program that prints the size of.
  *
