@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * manin - this program convert and prints all base 16 numbers
+ * main - this program convert and prints all base 16 numbers
  *
  * Return: Always 0 (Success)
  */
