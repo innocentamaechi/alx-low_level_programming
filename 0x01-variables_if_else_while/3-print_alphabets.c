@@ -3,7 +3,7 @@
 /**
  * main - this program prints a_z and A_Z
  *
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
