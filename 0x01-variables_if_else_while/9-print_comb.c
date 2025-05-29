@@ -5,7 +5,7 @@
  *
  * Return: Always 0 (Success)
  */
-7
+
 int main(void)
 {
 	int num;
